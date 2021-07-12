@@ -31,6 +31,7 @@ setTodos(
         completed: !todo.completed
       }
     }
+    return todo
   })
 )
 }
